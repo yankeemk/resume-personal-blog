@@ -1,0 +1,88 @@
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+
+body{
+    background-color: #f2f2f2;
+}
+
+.container{
+    max-width: 1100px;
+    
+    margin: 0 auto;
+
+}
+
+.font-navbar{
+    font-size: 0.90em;
+}
+
+.container2{
+    height: 500px;
+    background-image: url("./images/ppg3.jpg");
+    background-size: cover;
+    margin: 0 auto;
+   
+
+}
+
+.container3{
+    max-width: 1100px;
+    display: flex;
+    margin: 4em auto ;
+    border-radius: 10px;
+    background-color: #fff;
+
+
+
+}
+
+.container4{
+    max-width: 550px;
+    
+    text-align: left;
+    margin: 0 auto;
+
+}
+
+.container-education{
+    max-width: 1100px;
+    margin: 4em auto ;
+    display: flex;
+    background-color: #fff;
+    border-radius: 15px;
+    
+}
+.container-education1{
+    text-align: center;
+    width: 25%;
+    height: 13rem;
+    background-color: 	#1a5165;
+    color: #fff;
+    border-radius: 15px;
+
+}
+
+.container-education2{
+    width: 75%;
+text-align: left;
+max-width: 75%; 
+background-color: #fff;
+
+border-bottom-right-radius: 15px;
+border-top-right-radius: 15px;
+   
+
+}
+
+.container-portfolio{
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 560px;
+    max-width: 1100px;
+    align-items: center;
+    
+}
+
